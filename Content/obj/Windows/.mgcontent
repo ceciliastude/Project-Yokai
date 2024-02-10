@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/../../../../../OneDrive/Desktop/OO2 Kursprojekt/Resources/Assets/Sprites/kunai.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Backgrounds/Dark_forest.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Backgrounds/intoBackground.jpg</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Backgrounds/Map1.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Backgrounds/Map2.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Backgrounds/Map3.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Backgrounds/Map4.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Backgrounds/Map5.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Backgrounds/Map6.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Sprites/gate.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Sprites/glowing kunai.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Sprites/kunai assets.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Sprites/kunai.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Sprites/lantern (lit).png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Sprites/lantern (unlit).png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Sprites/Misc assets (OO2 Kursprojekt) (PNG ver).png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Sprites/Misc assets 2.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Sprites/movable stone (1).png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Sprites/movable stone (2).png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Sprites/reset post.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Sprites/sprite sheet (MC).png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/Sprites/stone.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Custom Big Buttons/Custom Buttons Active/Custom Button Active 1.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Custom Big Buttons/Custom Buttons Active/Custom Button Active 2.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Custom Big Buttons/Custom Buttons Active/Custom Button Active 3.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Custom Big Buttons/Custom Buttons Active/Custom Button Active 4.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Custom Big Buttons/Custom Buttons Disable/Custom Button Disable 1.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Custom Big Buttons/Custom Buttons Disable/Custom Button Disable 2.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Custom Big Buttons/Custom Buttons Disable/Custom Button Disable 3.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Custom Big Buttons/Custom Buttons Disable/Custom Button Disable 4.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Custom Big Buttons/Custom Buttons Hover/Custom Button Hover 1.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Custom Big Buttons/Custom Buttons Hover/Custom Button Hover 2.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Custom Big Buttons/Custom Buttons Hover/Custom Button Hover 3.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Custom Big Buttons/Custom Buttons Hover/Custom Button Hover 4.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Custom Big Buttons/Custom Buttons Normal/Custom Button Normal 1.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Custom Big Buttons/Custom Buttons Normal/Custom Button Normal 2.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Custom Big Buttons/Custom Buttons Normal/Custom Button Normal 3.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Custom Big Buttons/Custom Buttons Normal/Custom Button Normal 4.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Items/Item 1.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Items/Item 2.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Items/Item 3.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Items/Item 4.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Gray/Panel 1_.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Gray/Panel 10.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Gray/Panel 11.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Gray/Panel 12.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Gray/Panel 2_.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Gray/Panel 3_.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Gray/Panel 4_.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Gray/Panel 5_.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Gray/Panel 6_.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Gray/Panel 7_.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Gray/Panel 8_.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Gray/Panel 9.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Green/Panel 1.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Green/Panel 10.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Green/Panel 11.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Green/Panel 12.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Green/Panel 2.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Green/Panel 3.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Green/Panel 4.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Green/Panel 5.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Green/Panel 6.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Green/Panel 7.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Green/Panel 8.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Panels Green/Panel 9.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Blue/V1/Background Bar.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Blue/V1/Background Static.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Blue/V1/Foreground.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Blue/V2/Background Bar.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Blue/V2/Background Static.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Blue/V2/Foreground.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Blue/V3/Background Bar.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Blue/V3/Background Static.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Blue/V3/Foreground.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Blue/V4/Background Bar.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Blue/V4/Background Static.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Blue/V4/Foreground.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Green/V1/Background Bar.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Green/V1/Background Static.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Green/V1/Foreground.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Green/V2/Background Bar.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Green/V2/Background Static.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Green/V2/Foreground.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Green/V3/Background Bar.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Green/V3/Background Static.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Green/V3/Foreground.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Green/V4/Background Bar.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Green/V4/Background Static.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Green/V4/Foreground.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Light Blue/V1/Background Bar.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Light Blue/V1/Background Static.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Light Blue/V1/Foreground.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Light Blue/V2/Background Bar.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Light Blue/V2/Background Static.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Light Blue/V2/Foreground.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Light Blue/V3/Background Bar.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Light Blue/V3/Background Static.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Light Blue/V3/Foreground.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Light Blue/V4/Background Bar.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Light Blue/V4/Background Static.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Light Blue/V4/Foreground.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Red/V1/Background Bar.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Red/V1/Background Static.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Red/V1/Foreground.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Red/V2/Background Bar.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Red/V2/Background Static.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Red/V2/Foreground.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Red/V3/Background Bar.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Red/V3/Background Static.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Red/V3/Foreground.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Red/V4/Background Bar.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Red/V4/Background Static.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/ProgressBar Red/V4/Foreground.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Active/Standart Button Active 1.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Active/Standart Button Active 2.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Active/Standart Button Active 3.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Active/Standart Button Active 4.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Active/Standart Button Active 5.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Active/Standart Button Active 6.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Disable/Standart Button Disable 1.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Disable/Standart Button Disable 2.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Disable/Standart Button Disable 3.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Disable/Standart Button Disable 4.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Disable/Standart Button Disable 5.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Disable/Standart Button Disable 6.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Hover/Standart Button Hover 1.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Hover/Standart Button Hover 2.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Hover/Standart Button Hover 3.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Hover/Standart Button Hover 4.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Hover/Standart Button Hover 5.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Hover/Standart Button Hover 6.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Normal/Standart Button Normal 1.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Normal/Standart Button Normal 2.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Normal/Standart Button Normal 3.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Normal/Standart Button Normal 4.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Normal/Standart Button Normal 5.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V1/Standart Button Normal/Standart Button Normal 6.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Active/Standart Button Active 1.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Active/Standart Button Active 2.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Active/Standart Button Active 3.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Active/Standart Button Active 4.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Active/Standart Button Active 5.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Active/Standart Button Active 6.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Disable/Standart Button Disable 1.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Disable/Standart Button Disable 2.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Disable/Standart Button Disable 3.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Disable/Standart Button Disable 4.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Disable/Standart Button Disable 5.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Disable/Standart Button Disable 6.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Hover/Standart Button Hover 1.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Hover/Standart Button Hover 2.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Hover/Standart Button Hover 3.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Hover/Standart Button Hover 4.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Hover/Standart Button Hover 5.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Hover/Standart Button Hover 6.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Normal/Standart Button Normal 1.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Normal/Standart Button Normal 2.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Normal/Standart Button Normal 3.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Normal/Standart Button Normal 4.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Normal/Standart Button Normal 5.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Assets/UI/Standart Button V2/Standart Button Normal/Standart Button Normal 6.png</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Music/Adrian von Ziegler - Honō-no-Megami.mp3</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Music/Adrian von Ziegler - Yuki.mp3</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Music/Derek &amp; Brandon Fiechter - Crystal Woods.mp3</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Music/Peaceful Garden - HarumachiMusic.mp3</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/Music/River - HarumachiMusic.mp3</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/nameFont.spritefont</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/placeHolderFont.spritefont</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/SFX/correct-2.wav</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/SFX/ice-freezes.wav</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/SFX/item-equip.wav</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/SFX/magic-spell.wav</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/SFX/magic.wav</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/SFX/punch-1.wav</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/SFX/punch-2.wav</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/SFX/smooth-cold-wind-looped.mp3</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/SFX/soft-bells.wav</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/SFX/success-bell.wav</File>
+    <File>C:/Users/Cecilia/source/repos/oo-grupp-13/Project Yokai/Content/SFX/wind-chime.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Assets/Sprites/kunai.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
